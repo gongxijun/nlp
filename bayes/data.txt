@@ -1,0 +1,61 @@
+请 打开 机票 APT#flight
+请 打开 机票 监控#flight
+首先 我们 来 打开 机票 APT#flight
+首先 我们 来 打开 机票 监控#flight
+打开 机票 APT#flight
+打开 机票 监控#flight
+切换 到 机票 APT#flight
+切换 到 机票 监控#flight
+进入 到 机票 APT#flight
+进入 机票 APT#flight
+进入 机票 监控#flight
+进入 到 机票 监控#flight
+进入 机票 监控#flight
+进入 机票 监控#flight
+打开 机票 监控#flight
+打开 酒店 监控#hotel
+打开 支付 监控#pays
+打开 门票 监控#ticket
+打开 机票 atp#flight
+打开 酒店 atp#hotel
+打开 支付 atp#pays
+打开 门票 atp#ticket
+打开 机票 app#flight
+打开 酒店 app#hotel
+打开 支付 app#pays
+打开 门票 app#ticket
+切换 到 机票 监控#flight
+切换 到 酒店 监控#hotel
+切换 到 支付 监控#pays
+切换 到 门票 监控#ticket
+切换 到 机票 atp#flight
+切换 到 酒店 atp#hotel
+切换 到 支付 atp#pays
+切换 到 门票 atp#ticket
+切换 到 机票 app#ticket
+切换 到 酒店 app#hotel
+切换 到 支付 app#pays
+切换 到 门票 app#ticket
+open flight atp#flight
+opena flight atp#flight
+opened flight atp#flight
+opening flight atp#flight
+open flat atp#flight
+opena flat atp#flight
+opening flat atp#flight
+opened flight atp#flight
+open hotel atp#hotel
+opena hotel atp#hotel
+opening hotel atp#hotel
+opened hotel atp#hotel
+open pay atp#pays
+open pei atp#pays
+opened pay atp#pays
+open k atp#pays
+change to pay atp#pays
+open ticket atp#pays
+opened ticket atp#ticket
+open take cade atp#ticket
+open ticket to atp#ticket
+opened ticket to atp#ticket
+open tkt atp#ticket

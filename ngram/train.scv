@@ -1,0 +1,53 @@
+flight 0 1 2 3 #flight
+flight 0 1 2 4 #flight
+flight 5 6 7 1 2 3 #flight
+flight 5 6 7 1 2 4 #flight
+flight 1 2 3 #flight
+flight 1 2 4 #flight
+flight 8 9 2 3 #flight
+flight 8 9 2 4 #flight
+flight 10 9 2 3 #flight
+flight 10 9 2 4 #flight
+flight 10 2 4 #flight
+flight 10 2 4 #flight
+flight 1 2 4 #flight
+pays 1 12 4 #pays
+ticket 1 13 4 #ticket
+flight 1 2 14 #flight
+hotel 1 11 14 #hotel
+pays 1 12 14 #pays
+ticket 1 13 14 #ticket
+flight 1 2 15 #flight
+hotel 1 11 15 #hotel
+pays 1 12 15 #pays
+ticket 1 13 15 #ticket
+flight 8 9 2 4 #flight
+hotel 8 9 11 4 #hotel
+pays 8 9 12 4 #pays
+ticket 8 9 13 4 #ticket
+flight 8 9 2 14 #flight
+hotel 8 9 11 14 #hotel
+ticket 8 9 13 14 #ticket
+ticket 8 9 2 15 #ticket
+hotel 8 9 11 15 #hotel
+pays 8 9 12 15 #pays
+ticket 8 9 13 15 #ticket
+flight 19 17 14 #flight
+flight 20 17 14 #flight
+flight 16 21 14 #flight
+flight 18 21 14 #flight
+flight 20 21 14 #flight
+flight 19 17 14 #flight
+hotel 16 22 14 #hotel
+hotel 18 22 14 #hotel
+hotel 19 22 14 #hotel
+pays 16 23 14 #pays
+pays 16 24 14 #pays
+pays 19 23 14 #pays
+pays 16 25 14 #pays
+pays 26 27 23 14 #pays
+pays 16 28 14 #pays
+ticket 16 29 30 14 #ticket
+ticket 16 28 27 14 #ticket
+ticket 19 28 27 14 #ticket
+ticket 16 31 14 #ticket

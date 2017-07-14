@@ -1,0 +1,8 @@
+flight 10 2 3 #flight
+flight 10 2 4 #flight
+hotel 1 11 4 #hotel
+pays 8 9 12 14 #pays
+flight 16 17 14 #flight
+flight 18 17 14 #flight
+hotel 20 22 14 #hotel
+ticket 19 28 14 #ticket
